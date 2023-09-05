@@ -11,13 +11,11 @@ public class Main {
         String favouriteFood=scanner.nextLine();
         scanner.nextLine();
         System.out.print("Age: "+age);
-        scanner.nextLine();
+        String substring age=scanner.nextLine();
         System.out.print("First Name: "+firstName);
-        scanner.nextLine();
+        firstName=scanner.nextLine();
         System.out.print("Favourite food: "+favouriteFood);
-        scanner.nextLine();
-System.out.println("Age: "+age+"First Name: "+firstName+" Favourite food: "+favouriteFood);
-
+        favouriteFood=scanner.nextLine();
     }
 
 }
