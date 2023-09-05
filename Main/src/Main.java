@@ -9,13 +9,9 @@ public class Main {
         String firstName=scanner.nextLine();
         System.out.println("Favourite food: ");
         String favouriteFood=scanner.nextLine();
-        scanner.nextLine();
-        System.out.print("Age: "+age);
-        String substring age=scanner.nextLine();
-        System.out.print("First Name: "+firstName);
-        firstName=scanner.nextLine();
-        System.out.print("Favourite food: "+favouriteFood);
-        favouriteFood=scanner.nextLine();
+        System.out.println("Age: "+age);
+        System.out.println("First Name: "+firstName);
+        System.out.println("Favourite food: "+favouriteFood);
     }
 
 }

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d04a44-8954-4fb7-b81f-f95729d44eea" name="Changes" comment="Added scanner&#10;Added age&#10;Added firstName&#10;Added favourite food">
-      <change beforePath="$PROJECT_DIR$/.idea/Source/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Source/src/Main.java" afterDir="false" />
+    <list default="true" id="e8d04a44-8954-4fb7-b81f-f95729d44eea" name="Changes" comment="Added scanner&#10;Added &quot;Age: &quot; and age&#10;Added firstName&#10;Added favourite food">
+      <change beforePath="$PROJECT_DIR$/.idea/Source/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +46,26 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea/Source/src" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CS.11.01-Quiz.1.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Source" />
@@ -60,6 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -81,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693813635673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added scanner&#10;Added &quot;Age: &quot; and age&#10;Added firstName&#10;Added favourite food">
+      <option name="closed" value="true" />
+      <created>1693889638543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693889638543</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +123,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added" />
     <MESSAGE value="Added scanner&#10;Added age&#10;Added firstName&#10;Added favourite food" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added scanner&#10;Added age&#10;Added firstName&#10;Added favourite food" />
+    <MESSAGE value="Added scanner&#10;Added &quot;Age: &quot; and age&#10;Added firstName&#10;Added favourite food" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added scanner&#10;Added &quot;Age: &quot; and age&#10;Added firstName&#10;Added favourite food" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>3</line>
+          <properties class="Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
